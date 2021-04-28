@@ -4,7 +4,7 @@ I am a(n):
 - :sunglasses: Python, C++ and JS Developer
 - :chart_with_downwards_trend: AI Aficionado
 - :skull: Backend Dev.
-- :ghost: AR Enthusiast
+- :ghost: Cloud Enthusiast
 - :art: lil' bit of a Front-End Designer.
 - :triumph: Self-Proclaimed Microservices Architecture Master!
 
